@@ -1,0 +1,104 @@
+commit 8b468c4a7c8c47c59a64c0d492623a8c7894dec6
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Thu Feb 12 15:39:09 2026 -0600
+
+    Agregando 2 párrafos
+
+commit 1aa94035601ea556cb947a3b7945ef2bd07d46bb
+Merge: 6881125 aa4a85b
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Thu Feb 12 15:37:04 2026 -0600
+
+    resolviendo conflictos de estaciones del año
+
+commit 688112508b9b18ea89f2085869aed053fab67713
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Thu Feb 12 15:20:57 2026 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit aa4a85bab82e46492078590f9cbe4b2592e7a67a
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Thu Feb 12 15:20:57 2026 -0600
+
+    agregando estaciones del año
+
+commit ae3160f34407124930fafa34697415e50c98019b
+Merge: 3d5def8 0124301
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Thu Feb 12 13:34:00 2026 -0600
+
+    Resolviendo conflicto merge main-html en el documento index.html
+
+commit 012430130f4639e1fba050c2a421720be9bf1abc
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Thu Feb 12 13:28:23 2026 -0600
+
+    agregando index.js
+
+commit 3d5def8cd88bbb83481ceaa3cd7db04a9a370780
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Thu Feb 12 13:24:37 2026 -0600
+
+    agregando style.css al index.html
+
+commit d560d38c1eba8bb6ed8eae6ffe64e6b81581ea2a
+Merge: d9b8016 13714a4
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Thu Feb 12 13:08:02 2026 -0600
+
+    Merge branch 'js'
+
+commit 13714a49d62278a73631381d8d03e22a2a47c177
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Wed Feb 11 14:44:55 2026 -0600
+
+    creando index.js
+
+commit d9b8016d90c733784baf9061794784ced5fb4693
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Wed Feb 11 14:41:57 2026 -0600
+
+    creando style.css
+
+commit b55d427af7995101da77a89bacc7af9cf0711365
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Tue Feb 10 15:36:06 2026 -0600
+
+    creando style.css
+
+commit 827758535216a47412536649ba55059b6788b536
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Tue Feb 10 15:29:40 2026 -0600
+
+    creando archivo index.html
+
+commit 13956bf5f9dfb975788442bc9aa687c6d48af8b0
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Tue Feb 10 15:08:07 2026 -0600
+
+    ignorando archivos .exe
+
+commit 23d44c9da4ec6b2f4356afad490e2e652da4eaf7
+Author: JesusMendoz4x <jc3891546@gmail.com>
+Date:   Mon Feb 9 12:32:16 2026 -0600
+
+    Creando licencia del repositroio
+
+commit fcf2eb39344071efdcf287ed49309aa1a5528414
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Mon Feb 9 12:20:42 2026 -0600
+
+    Agregando más contenido al README
+
+commit 49d250f5cda37685e0439e23251c3c205f709100
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Mon Feb 9 11:53:55 2026 -0600
+
+    agregando contenido inicial al README
+
+commit 694656eae65e289842f30ef1fb2c7423d941d990
+Author: Jesús Mendoza <jc3891546@gmail.com>
+Date:   Mon Feb 9 11:47:33 2026 -0600
+
+    Primer commit :I
